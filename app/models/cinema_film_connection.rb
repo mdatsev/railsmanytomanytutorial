@@ -1,0 +1,2 @@
+class CinemaFilmConnection < ApplicationRecord
+end
